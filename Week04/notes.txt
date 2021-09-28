@@ -1,0 +1,3 @@
+you need to pay attention to return types
+
+part1: hw 95
