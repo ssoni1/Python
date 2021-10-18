@@ -1,3 +1,7 @@
 you need to pay attention to return types
 
 part1: hw 95
+
+for hw part2: title, axis info? 
+
+part2: hw 85
